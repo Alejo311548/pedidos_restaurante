@@ -20,16 +20,7 @@ Este proyecto implementa una API RESTful para gestionar pedidos de restaurante a
 
 ---
 
-##  Estructura del Proyecto
-src/
-└── main/
-    ├── java/
-    │   └── com/restaurante/pedidosapi/
-    │       ├── controller/
-    │       ├── model/
-    │       └── repository/
-    └── resources/
-        └── application.properties
+
 
 
 
